@@ -62,7 +62,7 @@ Some new options have been added to the nfpar file:
 
 # Use GA for orientation, otherwise direct search
 ORIENTGA 1
-# Weighting for membrane potential energy weighting
+# Weighting for membrane potential energy term
 ENVWT 0.002
 # Threads to use for orientation
 THREADS	8
